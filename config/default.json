@@ -1,0 +1,6 @@
+{
+    "mongoURL": "mongodb+srv://tvvu:tvvu@devconnector.k0a33.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "Dit con me thang nao chom tai khoan",
+    "githubClientId": "Iv1.1d7fa53b0fa08905",
+    "githubClientSecret": "de5d7b0541ba16a7b2da45e2126d5b88523fdcce"
+}
